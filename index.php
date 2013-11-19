@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Andrew McGowan | Web Developer | Portfolio
+    <title>GoonWorx Web Development
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="I am Andrew McGowan, a web developer in the Fraser Valley, BC, I specialize in front end development, however I also am a solid programmer for backend work and game development. Canadian lower mainland abbotsford web developer.">
-    <meta name="keywords" content="Andrew McGowan, Andrew, McGowan, Web Developer, Fraser Valley, Abbotsford, Lower Mainland, Canada, Canadian, BC, British Columbia, Programmer, HTML5, CSS3, JavaScript, PHP, MySQL, Designer, Design">
+    <meta name="description" content="GoonWorx specializes in web development, programming, and graphic design. We are located in the Fraser Valley, BC, Canada. We work with HTML5, CSS3, JavaScript, Less, MySQL, and PHP. We also can work with languages that do not target the web such as Java and C#">
+    <meta name="keywords" content="GoonWorx, Web Development, Programming, Andrew McGowan, Graphic Design, HTML5, CSS3, JavaScript, Java, MySql, PHP, Less, Fraser Valley, Lower Mainland, Abbotsford, BC, Canada, British Columbia, Abbotsford Web Developer">
     <meta name="author" content="Andrew McGowan">
     <!-- Bootstrap -->
     <link href="styles/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -22,26 +22,15 @@
 	 
   	<div class="container">
   		<div class="masthead">
-  			<h3 class="text-muted">Andrew C. McGowan</h3>
+  			<h3 class="text-muted">GoonWorx</h3>
   		</div>
   		<div class="jumbotron">
   			
 	  		<h1>Hello!</h1>
 	  		<p class="lead">
-		  		Welcome to my portfolio. There is nothing here yet, but there will be lots to display real soon. If you are interested in seeing some samples of my work right away feel free to get in touch with me. 
+		  		Welcome to GoonWorx! We develop web things from personal blogs to sophisticated custom web applications. We are currently building a site to list our services in detail. However, we would be happy to put that on hold if you have a great idea that needs to be on the web right away. 
 	  		</p>
-	  		<a class="btn btn-lg btn-success" href="mailto:andrew@goonworx.com">Contact Me</a>
-	  	</div>
-	  	<div class="row">
-	  		<div class="col-md-4">
-	  			<a target="_blank" href="http://www.facebook.com/andrew.mcgowan.90"><i class="fa fa-facebook-square"></i></a>
-	  		</div>
-	  		<div class="col-md-4">
-	  			<a target="_blank" href="http://www.linkedin.com/pub/andrew-mcgowan/14/7b/ab1"><i class="fa fa-linkedin-square"></i></a>
-	  		</div>
-	  		<div class="col-md-4">
-	  			<a target="_blank" href="http://vimeo.com/channels/615719"><i class="fa fa-vimeo-square"></i></a>
-	  		</div>
+	  		<a class="btn btn-lg btn-success" href="mailto:andrew@goonworx.com">Contact Us</a>
 	  	</div>
 	  	<div class="footer">
 	  		<p>&copy; <a href="http://www.goonworx.com/" target="_blank">GoonWorx</a> <?= date('Y'); ?></p>
